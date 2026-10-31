@@ -23,3 +23,12 @@ The following structure is followed:\
 3.Stack - User stack these subsystem based on their needs and design\
 4.Connectivity - User makes electric connections between each element on the board so they are able to connect with eachother. Main power comes from solar irradiance\
 5.Orbit Design - User decide the type of orbit for satellite
+
+##  Digital Twin
+A digital twin is a virtual reality concept that is different from simulation as it consists of real-time data. It consists of 3 parts: a virtual concept, physical counterpart, and a data connection between the two.\
+
+In this project we tried to integrate the superficial concept of digital twin for its thermal testing section.\
+
+**Thermal Testing** - Allows user to connect their data of the of thermal conductivity of the phase of the cubesat.\
+
+In this instance only one phase shows thermal conductivity as the spinning factor of the satellite WAS NOT incorporated.
