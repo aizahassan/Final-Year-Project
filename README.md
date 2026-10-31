@@ -15,7 +15,7 @@ Watch the full demonstration videos of SatBuilder on Google Drive:
 ---
 
 ##  Features & Highlights
-Allows user to design and create their own 1U CubeSat.\
+Allows user to design and create their own 1U CubeSat
 
 The following structure is followed:\
 1.**Element** - User design the element or components that will make up each subsystem of the CubeSat\
@@ -25,10 +25,10 @@ The following structure is followed:\
 5.**Orbit Design** - User decide the type of orbit for satellite
 
 ##  Digital Twin
-A digital twin is a virtual reality concept that is different from simulation as it consists of real-time data. It consists of 3 parts: a virtual concept, physical counterpart, and a data connection between the two\
+A digital twin is a virtual reality concept that is different from simulation as it consists of real-time data. It consists of 3 parts: a virtual concept, physical counterpart, and a data connection between the two.
 
-In this project we tried to integrate the superficial concept of digital twin for its thermal testing section\
+In this project we tried to integrate the superficial concept of digital twin for its thermal testing section.
 
-**Thermal Testing** - Allows user to connect their data of the of thermal conductivity of the phase of the cubesat\
+**Thermal Testing** - Allows user to connect their data of the of thermal conductivity of the phase of the cubesat.
 
 In this instance only one phase shows thermal conductivity as the spinning factor of the satellite WAS NOT incorporated
