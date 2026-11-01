@@ -8,8 +8,9 @@
 ##  Software Demo
 
 Watch the full demonstration videos of SatBuilder on Google Drive:
+Includes subsystems plates 
 
-**Demo Video 1 and 2**: [Watch SatBuilder Overview on Google Drive]([https://drive.google.com/drive/folders/19GARF_0HQlM42UIaI86jtTvDJpuPrero?usp=drive_link])
+**Demo Video 1 and 2**: [Watch SatBuilder Overview on Google Drive](https://drive.google.com/drive/folders/19GARF_0HQlM42UIaI86jtTvDJpuPrero?usp=drive_link)
 
 
 ---
